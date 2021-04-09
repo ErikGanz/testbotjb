@@ -1,6 +1,6 @@
 # testbotjb
-Line Bot
-$pkg install git
+Bot Garis
+$ pkg instal git
 $pkg install ffmpeg
 $pkg install imagemagick
 $pkg install nodejs
