@@ -6,6 +6,10 @@ $pkg install imagemagick
 $pkg install nodejs
 
 $git https://github.com/ErikGanz/testbotjb.git
-$cd BotJB
-$npm i
-$node index.js
+$ cd BotJB
+$ npm i
+
+$n
+
+$
+</s>   </s>   </s>   </s>   </s>   </s>   </s>   </s>   </s>   </s>   </s>   </s>   </ s>   </s>   </s>   </s>   </s>   </s>   </s>   </s>   </s>   </s>   </s>   </s>   </s>   </s>   </s> orang </s>
